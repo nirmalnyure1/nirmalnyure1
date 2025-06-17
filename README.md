@@ -23,9 +23,9 @@ I'm a passionate **Flutter Developer** from Kathmandu, Nepal — turning ideas i
 
 ## 🔹Some Projects I've Worked On
 
-✨ [Connect Kisan](https://play.google.com/store/apps/details?id=your.package.name) — An agricultural platform with services, notifications & bidding.  
-✨ [My Palika](https://play.google.com/store/apps/details?id=your.package.name) — A civic services platform with extensive microservice orchestration.  
-✨ [Palika App](https://play.google.com/store/apps/details?id=your.package.name) — An intermediary platform for multiple municipalities.  
+✨ [Connect Kisan](https://play.google.com/store/apps/details?id=com.cliffbyte.krishi_hub) — An agricultural platform with services, notifications & bidding.  
+✨ [My Palika](https://play.google.com/store/apps/details?id=com.informationcare.metro_appointment_user) — A civic services platform with extensive microservice orchestration.  
+✨ [Palika App](https://play.google.com/store/apps/details?id=com.informationcare.metro_appointment_user) — An intermediary platform for multiple municipalities.  
 ✨ **Other:** Pay Well (Wallet App), InfoCare CRM, Product Tracking App, and more.
 
 ---
@@ -34,7 +34,7 @@ I'm a passionate **Flutter Developer** from Kathmandu, Nepal — turning ideas i
 
 📍 Location: Kathmandu, Nepal  
 📧 [nirmalnyure1@gmail.com](mailto:nirmalnyure1@gmail.com)  
-🔹 [LinkedIn](https://www.linkedin.com/)   
+🔹 [LinkedIn](https://www.linkedin.com/in/nirmal-nyure-aa8602189)   
 🔹 [Github](https://github.com/nirmalnyure1/)    
 
 ---
