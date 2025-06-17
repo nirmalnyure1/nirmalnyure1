@@ -1,10 +1,10 @@
 Hi there 👋 — I'm Nirmal Nyure
-I'm a passionate Flutter Developer — turning ideas into high-caliber, cross-platform apps with clean code, strong architecture, and a collaborative spirit.
+I'm a passionate Flutter Developer from Kathmandu, Nepal — turning ideas into high-caliber, cross-platform apps with clean code, strong architecture, and a collaborative spirit.
 
 🔹About Me
 ✅ Specialize in Flutter (with Provider, Riverpod, BloC, GetX)
-✅ Collaborative team player — enthusiastic about mentoring and growing together
-✅ Always eager to learn and improve
+✅ Collaborative team player — passionate about mentoring and growing together
+✅ Always eager to learn, improve, and adapt to new technologies
 ✅ Currently developing high-performance, scalable, and reliable apps at Information Care, Kathmandu
 
 🔹Tech Stack
@@ -22,11 +22,8 @@ Other: Firebase, SQLite, Hive, C#, Java, API Development, Unit/Integration Tests
 
 🔹Let's Connect
 📍 Location: Kathmandu, Nepal
-
 📧 nirmalnyure1@gmail.com
-
 🔹 LinkedIn
-
 🔹 Github
 
 ✨ Always excited to collaborate, learn, and grow together!
